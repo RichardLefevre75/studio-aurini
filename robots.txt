@@ -1,0 +1,11 @@
+# robots.txt – Studio Aurini – Pilates Clássico em Sorocaba
+# https://richardlefevre75.github.io/studio-aurini/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://richardlefevre75.github.io/studio-aurini/sitemap.xml
+
+# Crawl-delay (opcional – evita sobrecarga em bots lentos)
+Crawl-delay: 10
